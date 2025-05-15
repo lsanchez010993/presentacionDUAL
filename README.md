@@ -4,9 +4,9 @@
 ![Luis Sánchez Martín](./LuisSanchez1.png)
 ### Información de contacto
 
-* **Correo electrónico:** [luis.sanchez@ejemplo.com](mailto:luis.sanchez@ejemplo.com)
-* **Teléfono:** +34 123 456 789
-* **LinkedIn:** [linkedin.com/in/luissanchez](https://linkedin.com/in/luissanchez)
+* **Correo electrónico:** [luis010993@gmail.com](mailto:luis010993@gmail.com)
+* **Teléfono:** +34 680 611 347
+* **LinkedIn:** [./mis_proyectos](./mis_proyectos)
 
 ---
 
