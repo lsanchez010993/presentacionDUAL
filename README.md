@@ -16,7 +16,20 @@ La lectura y la escritura son, y lo han sido siempre, dos pilares fundamentales 
 
 En los años que he cursado DAW he visto los paralelismos que tiene la escritura con la programación: constancia (para desarrollar el código) y dedicación (para refactorizarlo). Ambos atributos son imprescindibles para hilar un codigo, claro y conciso. La creatividad es una de mis mayores virtudes.
 
-* **Proyectos personales:** [Mis proyectos](./mis_proyectos)
+## Programas escritos en Java
+
+- **Programa de encriptación con interfaz gráfica:**  
+  [Encriptar Archivos](https://github.com/lsanchez010993/EncriptarArchivos)
+
+- **Programa múltiples juegos por consola:**  
+  [MultiJuegos](https://github.com/lsanchez010993/MultiJuegos)
+
+- **Formar palabras:**  
+  [Programa Aprendizaje](https://github.com/lsanchez010993/ProgramaAprendizaje)
+
+- **Buscaminas:**  
+  [Minas 2024](https://github.com/lsanchez010993/minas2024/)
+
 ---
 
 ## Experiencia laboral
