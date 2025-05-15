@@ -10,7 +10,7 @@
 
 ---
 
-## Perfil profesional
+## Sobre mi
 
 La lectura y la escritura son, y lo han sido siempre, dos pilares fundamentales de mi vida. He dedicado años a hacer ambas cosas. Cualquiera que sepa de la ardua tarea de escribir sabe que para hacerlo con corrección y precisión es necesario dedicar tiempo y paciencia, que nunca sale nada a la primera y que un buen relato debe pasar por muchos borradores antes de estar pulido. Lo mismo sucede con cualquier programa escrito en cualquier lenguaje de programación.
 
