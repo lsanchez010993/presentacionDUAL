@@ -16,6 +16,18 @@ La lectura y la escritura son, y lo han sido siempre, dos pilares fundamentales 
 
 En los años que he cursado DAW he visto los paralelismos que tiene la escritura con la programación: constancia (para desarrollar el código) y dedicación (para refactorizarlo). Ambos atributos son imprescindibles para hilar un codigo, claro y conciso. La creatividad es una de mis mayores virtudes.
 
+---
+
+## Habilidades técnicas
+
+* **Lenguajes de programación:** JAVA, JavaScript, PHP
+* **Tecnologías web:** HTML, CSS, JQUERY, JSON, node.js, LARAVEL
+* **Bases de datos:** MYSQL, MONGO DB
+* **Herramientas:** figma.com (diseño web), GITHUB
+* **Sistemas operativos:** Ubuntu, Windows Server
+
+---
+
 ## Programas escritos en Java
 
 - **Programa de encriptación con interfaz gráfica:**  
@@ -48,15 +60,6 @@ En los años que he cursado DAW he visto los paralelismos que tiene la escritura
 * **2016-2017:** Curso de Acceso al Grado Superior
 * **2022-2026:** CFGS — Desarrollo de Aplicaciones Web
 
----
-
-## Habilidades técnicas
-
-* **Lenguajes de programación:** JAVA, JavaScript, PHP
-* **Tecnologías web:** HTML, CSS, JQUERY, JSON, node.js, LARAVEL
-* **Bases de datos:** MYSQL, MONGO DB
-* **Herramientas:** figma.com (diseño web), GITHUB
-* **Sistemas operativos:** Ubuntu, Windows Server
 
 ---
 
