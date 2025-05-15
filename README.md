@@ -6,7 +6,7 @@
 
 * **Correo electrónico:** [luis010993@gmail.com](mailto:luis010993@gmail.com)
 * **Teléfono:** +34 680 611 347
-* **Proyectos:** [Mis proyectos](./mis_proyectos)
+
 
 ---
 
@@ -16,6 +16,7 @@ La lectura y la escritura son, y lo han sido siempre, dos pilares fundamentales 
 
 En los años que he cursado DAW he visto los paralelismos que tiene la escritura con la programación: constancia (para desarrollar el código) y dedicación (para refactorizarlo). Ambos atributos son imprescindibles para hilar un codigo, claro y conciso. La creatividad es una de mis mayores virtudes.
 
+* **Proyectos personales:** [Mis proyectos](./mis_proyectos)
 ---
 
 ## Experiencia laboral
