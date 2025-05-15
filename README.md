@@ -12,7 +12,7 @@
 
 ## Sobre mi
 
-La lectura y la escritura son, y lo han sido siempre, dos pilares fundamentales de mi vida. He dedicado años a hacer ambas cosas. Cualquiera que sepa de la ardua tarea de escribir sabe que para hacerlo con corrección y precisión es necesario dedicar tiempo y paciencia, que nunca sale nada a la primera y que un buen relato debe pasar por muchos borradores antes de estar pulido. Lo mismo sucede con cualquier programa escrito en cualquier lenguaje de programación.
+La lectura y la escritura son, y lo han sido siempre, dos pilares fundamentales de mi vida. He dedicado años a hacer ambas cosas. Cualquiera que sepa de la ardua tarea de escribir sabe que para hacerlo con corrección y precisión es necesario dedicar tiempo y paciencia, y que un buen relato debe pasar por muchos borradores antes de estar pulido. Lo mismo sucede con cualquier programa escrito en cualquier lenguaje de programación.
 
 En los años que he cursado DAW he visto los paralelismos que tiene la escritura con la programación: constancia (para desarrollar el código) y dedicación (para refactorizarlo). Ambos atributos son imprescindibles para hilar un codigo, claro y conciso. La creatividad es una de mis mayores virtudes.
 
