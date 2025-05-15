@@ -6,7 +6,7 @@
 
 * **Correo electrónico:** [luis010993@gmail.com](mailto:luis010993@gmail.com)
 * **Teléfono:** +34 680 611 347
-* **LinkedIn:** [./mis_proyectos](./mis_proyectos)
+* **Proyectos:** [Mis proyectos](./mis_proyectos)
 
 ---
 
