@@ -1,7 +1,7 @@
 # Currículum Vitae
 
 ## Luis Sánchez Martín
-![Luis Sánchez Martín](./luisSanchez1.png)
+![Luis Sánchez Martín](./LuisSanchez1.png)
 ### Información de contacto
 
 * **Correo electrónico:** [luis.sanchez@ejemplo.com](mailto:luis.sanchez@ejemplo.com)
