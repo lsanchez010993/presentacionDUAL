@@ -98,8 +98,6 @@ Como puntos fuertes puedo destacar la atención al cliente y el trabajo en equip
 * Castellano – Hablado y escrito correctamente. Lengua materna
 * Inglés - Nivel básico
 
-
-
 ---
 ## Datos de interés
 
