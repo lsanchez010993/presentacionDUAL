@@ -64,6 +64,7 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 
 - **Registro e información de animales varios:**  
 [Web de articulos de animales](https://www.luissanchez.cat/)
+
 [GITHUB_Web de articulos de animales](https://github.com/lsanchez010993/ArticulosAnimales.git)
 
 
