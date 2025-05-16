@@ -59,6 +59,12 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 - **Biblioteca de libros en epub (node.js):**  
 [Biblioteca](https://github.com/lsanchez010993/biblioteca.git)
 
+---
+## Web desarrollada con PHP, HTML, CSS
+
+- **Registro e información de animales varios:**  
+[Web de articulos de animales](https://github.com/lsanchez010993/ArticulosAnimales.git)
+
 
 
 
