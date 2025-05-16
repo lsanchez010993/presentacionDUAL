@@ -60,10 +60,11 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 [Biblioteca](https://github.com/lsanchez010993/biblioteca.git)
 
 ---
-## Web desarrollada con PHP, HTML, CSS
+## Web desarrollada con PHP, MYSQL, HTML, CSS
 
 - **Registro e información de animales varios:**  
-[Web de articulos de animales](https://github.com/lsanchez010993/ArticulosAnimales.git)
+[Web de articulos de animales](https://www.luissanchez.cat/)
+[GITHUB_Web de articulos de animales](https://github.com/lsanchez010993/ArticulosAnimales.git)
 
 
 
