@@ -58,16 +58,16 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 
 * **2022-2026:** CFGS — Desarrollo de Aplicaciones Web
 
-  * Conocimientos adquiridos: desarrollo de aplicaciones web dinámicas, programación en JavaScript, PHP, uso de frameworks (como Laravel), gestión de bases de datos SQL y NoSQL, despliegue en servidores.
+  * Desarrollo de aplicaciones web dinámicas, programación en JavaScript, PHP, uso de frameworks (como Laravel), gestión de bases de datos SQL y NoSQL, despliegue en servidores.
 * **2016-2017:** Curso de Acceso al Grado Superior
 
-  * Conocimientos adquiridos: preparación académica en matemáticas, lengua y tecnología para el acceso a ciclos superiores.
+  * Preparación académica en matemáticas, lengua y tecnología para el acceso a ciclos superiores.
 * **2013-2014:** CFGM — Salvamento y Socorrismo Acuático
 
-  * Conocimientos adquiridos: técnicas de socorrismo, primeros auxilios, gestión de emergencias acuáticas.
+  *Técnicas de socorrismo, primeros auxilios, gestión de emergencias acuáticas.
 * **2010-2013:** CFGM — Sistemas Microinformáticos en Red
 
-  * Conocimientos adquiridos: configuración de redes, administración de sistemas operativos, mantenimiento de equipos informáticos.
+  * Configuración de redes, administración de sistemas operativos, mantenimiento de equipos informáticos.
 
 ---
 
