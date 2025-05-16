@@ -44,12 +44,21 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
   [BuscaMinas](https://github.com/lsanchez010993/minas2024/)
 
 ---
-## Programas desarrollados en JavaScript
+## Programas desarrollados en JavaScript, HTML, CSS
 
 - **Piano por teclado y mause:**  
 [Piano](https://github.com/lsanchez010993/Piano.git)
+
 - **Juego de naves espaciales y marcianos:**  
 [SpaceInvaders](https://github.com/lsanchez010993/navesEspacio.git)
+
+- **Multiplayer piramides**  
+[Piramides](https://github.com/lsanchez010993/Piramides.git)
+
+
+- **Biblioteca de libros en epub:**  
+[Biblioteca](https://github.com/lsanchez010993/biblioteca.git)
+
 
 
 
