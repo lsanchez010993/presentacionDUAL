@@ -52,11 +52,11 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 - **Juego de naves espaciales y marcianos:**  
 [SpaceInvaders](https://github.com/lsanchez010993/navesEspacio.git)
 
-- **Multiplayer piramides**  
+- **Multiplayer piramides (node.js):**  
 [Piramides](https://github.com/lsanchez010993/Piramides.git)
 
 
-- **Biblioteca de libros en epub:**  
+- **Biblioteca de libros en epub (node.js):**  
 [Biblioteca](https://github.com/lsanchez010993/biblioteca.git)
 
 
