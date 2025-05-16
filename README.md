@@ -8,7 +8,7 @@
 * **Lenguajes de programación:** JAVA, JavaScript, PHP
 * **Tecnologías web:** HTML, CSS, JQUERY, JSON, node.js, LARAVEL
 * **Bases de datos:** MYSQL, MONGO DB
-* **Herramientas:** figma.com (diseño web), GITHUB
+* **Herramientas:** figma.com (diseño web), GITHUB, Docker, Apache
 * **Sistemas operativos:** Ubuntu, Windows Server
 
 ---
