@@ -16,9 +16,8 @@
 
 * **Correo electrónico:** [luis010993@gmail.com](mailto:luis010993@gmail.com)
 * **Teléfono:** +34 680 611 347
-* **Dirección:** C/ Passatge del pi, nº2 – 17300 Blanes
 * **GitHub:** [github.com/lsanchez010993](https://github.com/lsanchez010993)
-
+* **Dirección:** C/ Passatge del pi, nº2 – 17300 Blanes
 
 ---
 
@@ -30,9 +29,7 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 
 ---
 
-
-
-## Programas escritos en Java
+## Programas desarrollados en Java
 
 - **Programa de encriptación con interfaz gráfica:**  
   [Encriptar Archivos](https://github.com/lsanchez010993/EncriptarArchivos)
