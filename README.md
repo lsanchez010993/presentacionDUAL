@@ -5,7 +5,7 @@
 
 ## Habilidades técnicas
 
-* **Lenguajes de programación:** JAVA, JavaScript, PHP
+* **Lenguajes de programación:** JAVA, JavaScript, TypeScript, PHP
 * **Tecnologías web:** HTML, CSS, JQUERY, JSON, node.js, LARAVEL
 * **Bases de datos:** MYSQL, MONGO DB
 * **Herramientas:** figma.com (diseño web), GITHUB, Docker, Apache
