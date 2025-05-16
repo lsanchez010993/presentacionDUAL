@@ -41,9 +41,15 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
   [Programa Aprendizaje](https://github.com/lsanchez010993/ProgramaAprendizaje)
 
 - **Buscaminas:**  
-  [Minas 2024](https://github.com/lsanchez010993/minas2024/)
+  [BuscaMinas](https://github.com/lsanchez010993/minas2024/)
 
 ---
+## Programas desarrollados en JavaScript
+
+- **Piano:**  
+[Piano](https://github.com/lsanchez010993/Piano.git)
+
+
 
 ## Historial académico
 
@@ -87,7 +93,14 @@ Como puntos fuertes puedo destacar la atención al cliente y el trabajo en equip
 * Responsable
 
 ---
+## Idiomas
+* Catalán- Hablado y escrito correctamente
+* Castellano – Hablado y escrito correctamente. Lengua materna
+* Inglés - Nivel básico
 
+
+
+---
 ## Datos de interés
 
 * Disponibilidad inmediata y flexibilidad horaria
