@@ -2,10 +2,22 @@
 
 ## Luis Sánchez Martín
 ![Luis Sánchez Martín](./LuisSanchez1.png)
+
+## Habilidades técnicas
+
+* **Lenguajes de programación:** JAVA, JavaScript, PHP
+* **Tecnologías web:** HTML, CSS, JQUERY, JSON, node.js, LARAVEL
+* **Bases de datos:** MYSQL, MONGO DB
+* **Herramientas:** figma.com (diseño web), GITHUB
+* **Sistemas operativos:** Ubuntu, Windows Server
+
+---
 ### Información de contacto
 
 * **Correo electrónico:** [luis010993@gmail.com](mailto:luis010993@gmail.com)
 * **Teléfono:** +34 680 611 347
+* **Dirección:** C/ Passatge del pi, nº2 – 17300 Blanes
+* **GitHub:** [github.com/lsanchez010993](https://github.com/lsanchez010993)
 
 
 ---
@@ -18,15 +30,7 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 
 ---
 
-## Habilidades técnicas
 
-* **Lenguajes de programación:** JAVA, JavaScript, PHP
-* **Tecnologías web:** HTML, CSS, JQUERY, JSON, node.js, LARAVEL
-* **Bases de datos:** MYSQL, MONGO DB
-* **Herramientas:** figma.com (diseño web), GITHUB
-* **Sistemas operativos:** Ubuntu, Windows Server
-
----
 
 ## Programas escritos en Java
 
