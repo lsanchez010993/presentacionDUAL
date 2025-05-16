@@ -78,7 +78,7 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
   * Preparación académica en matemáticas, lengua y tecnología para el acceso a ciclos superiores.
 * **2013-2014:** CFGM — Salvamento y Socorrismo Acuático
 
-  *Técnicas de socorrismo, primeros auxilios, gestión de emergencias acuáticas.
+  * Técnicas de socorrismo, primeros auxilios, gestión de emergencias acuáticas.
 * **2010-2013:** CFGM — Sistemas Microinformáticos en Red
 
   * Configuración de redes, administración de sistemas operativos, mantenimiento de equipos informáticos.
@@ -97,7 +97,7 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 * **2014:** Prácticas de empresa (CFGM) Evenia Olympic Garden (115 horas) -Vigilancia de piscinas
 * **2013:** Prácticas de empresa (CFGM) Colegio Mossén Joan Batlle (364 horas) -Mantenimiento y puesta a punto de equipos informaticos (formateos, copias de seguridad)
 
-Como puntos fuertes puedo destacar la atención al cliente y el trabajo en equipo.
+  * Como puntos fuertes puedo destacar la atención al cliente y el trabajo en equipo.
 
 ---
 
