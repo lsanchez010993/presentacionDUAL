@@ -46,8 +46,10 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 ---
 ## Programas desarrollados en JavaScript
 
-- **Piano:**  
+- **Piano por teclado y mause:**  
 [Piano](https://github.com/lsanchez010993/Piano.git)
+- **Juego de naves espaciales y marcianos:**  
+[SpaceInvaders](https://github.com/lsanchez010993/navesEspacio.git)
 
 
 
