@@ -47,10 +47,17 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 
 ## Experiencia laboral
 
-* **Socorrista Acuático (2014 - Actualidad)**
+* **2022-2024:** Hotel Guitart Park (Lloret de Mar)
+* **2021:** Camping Resort Els Pins (Malgrat de Mar)
+* **2018-2020:** Piscina Municipal (Lloret de Mar)
+* **2018:** Olympic Sport Club (535 horas)
+* **2017:** Cadena de hoteles Aqua Hotel: Silhouette, Aquamarina, Onabrava, Montagut (800 horas)
+* **2015:** Hotel Rosamar Garden (315 horas)
+* **2014:** Water World Lloret (675 horas)
+* **2014:** Prácticas de empresa (CFGM) Evenia Olympic Garden (115 horas)
+* **2013:** Prácticas de empresa (CFGM) Colegio Mossén Joan Batlle (364 horas)
 
-  * Atención al cliente y trabajo en equipo en diversos lugares.
-  * Desarrollo de habilidades de comunicación y responsabilidad.
+Como puntos fuertes puedo destacar la atención al cliente y el trabajo en equipo.
 
 ---
 
