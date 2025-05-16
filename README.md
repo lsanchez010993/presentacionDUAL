@@ -45,22 +45,6 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 
 ---
 
-## Experiencia laboral
-
-* **2022-2024:** Hotel Guitart Park (Lloret de Mar)
-* **2021:** Camping Resort Els Pins (Malgrat de Mar)
-* **2018-2020:** Piscina Municipal (Lloret de Mar)
-* **2018:** Olympic Sport Club (535 horas)
-* **2017:** Cadena de hoteles Aqua Hotel: Silhouette, Aquamarina, Onabrava, Montagut (800 horas)
-* **2015:** Hotel Rosamar Garden (315 horas)
-* **2014:** Water World Lloret (675 horas)
-* **2014:** Prácticas de empresa (CFGM) Evenia Olympic Garden (115 horas) -Vigilancia de piscinas
-* **2013:** Prácticas de empresa (CFGM) Colegio Mossén Joan Batlle (364 horas) -Mantenimiento y puesta a punto de equipos informaticos (formateos, copias de seguridad)
-
-Como puntos fuertes puedo destacar la atención al cliente y el trabajo en equipo.
-
----
-
 ## Historial académico
 
 * **2022-2026:** CFGS — Desarrollo de Aplicaciones Web
@@ -75,6 +59,22 @@ Como puntos fuertes puedo destacar la atención al cliente y el trabajo en equip
 * **2010-2013:** CFGM — Sistemas Microinformáticos en Red
 
   * Configuración de redes, administración de sistemas operativos, mantenimiento de equipos informáticos.
+
+---
+
+## Experiencia laboral
+
+* **2022-2024:** Hotel Guitart Park (Lloret de Mar)
+* **2021:** Camping Resort Els Pins (Malgrat de Mar)
+* **2018-2020:** Piscina Municipal (Lloret de Mar)
+* **2018:** Olympic Sport Club (535 horas)
+* **2017:** Cadena de hoteles Aqua Hotel: Silhouette, Aquamarina, Onabrava, Montagut (800 horas)
+* **2015:** Hotel Rosamar Garden (315 horas)
+* **2014:** Water World Lloret (675 horas)
+* **2014:** Prácticas de empresa (CFGM) Evenia Olympic Garden (115 horas) -Vigilancia de piscinas
+* **2013:** Prácticas de empresa (CFGM) Colegio Mossén Joan Batlle (364 horas) -Mantenimiento y puesta a punto de equipos informaticos (formateos, copias de seguridad)
+
+Como puntos fuertes puedo destacar la atención al cliente y el trabajo en equipo.
 
 ---
 
