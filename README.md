@@ -1,25 +1,120 @@
-# Currículum Vitae
+# Currículum Vitae  
+**Luis Sánchez Martín**  
+**Desarrollador Web Full Stack Junior**
 
-## Luis Sánchez Martín
-![Luis Sánchez Martín](./LuisSanchez1.png)
-
-## Habilidades técnicas
-
-* **Lenguajes de programación:** JAVA, JavaScript, TypeScript, PHP
-* **Tecnologías web:** HTML, CSS, JQUERY, JSON, node.js, LARAVEL
-* **Bases de datos:** MYSQL, MONGO DB
-* **Herramientas:** figma.com (diseño web), GITHUB, Docker, Apache
-* **Sistemas operativos:** Ubuntu, Windows Server
+Apasionado por la resolución de problemas y la lógica, encuentro en la programación el mismo rigor y creatividad que en la escritura. Mis años de dedicación a la lectura y escritura han cultivado mi paciencia, constancia y atención al detalle, cualidades que aplico en cada línea de código para desarrollar soluciones robustas y elegantes. Mi formación en DAW ha reforzado mi creencia en la constancia y dedicación como pilares para un código claro y conciso. Mi creatividad es una de mis mayores virtudes y la aplico para encontrar soluciones innovadoras.
 
 ---
-### Información de contacto
 
-* **Correo electrónico:** [luis010993@gmail.com](mailto:luis010993@gmail.com)
-* **Teléfono:** +34 680 611 347
-* **GitHub:** [github.com/lsanchez010993](https://github.com/lsanchez010993)
-* **Dirección:** C/ Passatge del pi, nº2 – 17300 Blanes
+## 📞 Información de contacto
+
+- **Correo electrónico:** luis010993@gmail.com  
+- **Teléfono:** +34 680 611 347  
+- **GitHub:** [github.com/lsanchez010993](https://github.com/lsanchez010993)  
+- **LinkedIn:** [linkedin.com/in/tu-perfil-linkedin](https://linkedin.com/in/tu-perfil-linkedin) *(¡Importante! Si no tienes uno, créalo y enlaza aquí)*  
+- **Dirección:** Blanes, Girona
 
 ---
+
+## 💻 Habilidades técnicas
+
+- **Lenguajes de programación:** Java, JavaScript, TypeScript, PHP  
+- **Frontend:** HTML, CSS, JQuery  
+- **Backend:** Node.js, Laravel  
+- **Bases de datos:** MySQL, MongoDB  
+- **Herramientas:** Figma, Git, GitHub, Docker, Apache  
+- **Sistemas operativos:** Ubuntu, Windows Server
+
+---
+
+## 🚀 Proyectos destacados
+
+### **Web de Artículos de Animales** *(PHP, MySQL, HTML, CSS)*  
+Plataforma con registro de usuarios y gestión de información sobre animales.  
+👉 Ver Web | [Código en GitHub](#)
+
+### **Biblioteca de Libros en EPUB** *(Node.js)*  
+Aplicación para la gestión y visualización de libros en formato EPUB.  
+👉 [Código en GitHub](https://github.com/lsanchez010993/biblioteca.git)
+
+### **Multiplayer Pirámides** *(Node.js)*  
+Juego multijugador interactivo.  
+👉 [Código en GitHub](#)
+
+### **Buscaminas** *(Java con Interfaz Gráfica)*  
+Implementación del clásico juego Buscaminas con GUI.  
+👉 [Código en GitHub](#)
+
+### **Programa de Encriptación con GUI** *(Java)*  
+Herramienta para la encriptación y desencriptación de archivos.  
+👉 [Código en GitHub](#)
+
+### **Juego de Naves Espaciales y Marcianos** *(JavaScript, HTML, CSS)*  
+Juego arcade tipo Space Invaders.  
+👉 [Código en GitHub](#)
+
+---
+
+## 🎓 Historial académico
+
+- **2022–2026:** CFGS — Desarrollo de Aplicaciones Web (DAW)  
+  Formación integral en desarrollo web dinámico, POO, frameworks (Laravel, Node.js), bases de datos (MySQL, MongoDB), frontend (HTML, CSS, JQuery), APIs, y despliegue con Apache/Docker.
+
+- **2016–2017:** Curso de Acceso al Grado Superior  
+  Preparación en matemáticas, lengua y tecnología.
+
+- **2013–2014:** CFGM — Salvamento y Socorrismo Acuático  
+  Técnicas de socorrismo, primeros auxilios y gestión de emergencias.
+
+- **2010–2013:** CFGM — Sistemas Microinformáticos en Red  
+  Redes, sistemas operativos, mantenimiento de equipos informáticos.
+
+---
+
+## 💼 Experiencia laboral
+
+- **2022–2024:** Hotel Guitart Park *(Lloret de Mar)*  
+  Atención al cliente, trabajo en equipo, resolución de problemas.
+
+- **2021:** Camping Resort Els Pins *(Malgrat de Mar)*  
+  Seguridad, responsabilidad, atención al público.
+
+- **2018–2020:** Piscina Municipal *(Lloret de Mar)*  
+  Prevención de riesgos, pensamiento crítico, toma de decisiones.
+
+- **2018:** Olympic Sport Club *(535 horas)*  
+  Vigilancia y asistencia.
+
+- **2017:** Aqua Hotel (Silhouette, Aquamarina, Onabrava, Montagut) *(800 horas)*  
+  Coordinación de tareas, atención al público.
+
+- **2015:** Hotel Rosamar Garden *(315 horas)*  
+  Vigilancia de piscinas.
+
+- **2014:** Water World Lloret *(675 horas)*  
+  Seguridad en instalaciones acuáticas.
+
+- **2014:** Prácticas (CFGM) — Evenia Olympic Garden *(115 horas)*  
+  Vigilancia de piscinas.
+
+- **2013:** Prácticas (CFGM) — Colegio Mossén Joan Batlle *(364 horas)*  
+  Mantenimiento de equipos informáticos.
+
+---
+
+## 🌐 Idiomas
+
+- **Castellano:** Nativo  
+- **Catalán:** Nativo  
+- **Inglés:** Nivel básico
+
+---
+
+## 🔍 Datos de interés
+
+- Disponibilidad inmediata y flexibilidad horaria  
+- Permiso de conducir tipo B y vehículo propio
+
 
 ## Sobre mi
 
@@ -66,58 +161,3 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 [Web de articulos de animales](https://www.luissanchez.cat/) [ => Código en GITHUB](https://github.com/lsanchez010993/ArticulosAnimales.git)
 
 
-
-
-## Historial académico
-
-* **2022-2026:** CFGS — Desarrollo de Aplicaciones Web
-
-  * Desarrollo de aplicaciones web dinámicas, programación en JavaScript, PHP, uso de frameworks (como Laravel), gestión de bases de datos SQL y NoSQL, despliegue en servidores.
-* **2016-2017:** Curso de Acceso al Grado Superior
-
-  * Preparación académica en matemáticas, lengua y tecnología para el acceso a ciclos superiores.
-* **2013-2014:** CFGM — Salvamento y Socorrismo Acuático
-
-  * Técnicas de socorrismo, primeros auxilios, gestión de emergencias acuáticas.
-* **2010-2013:** CFGM — Sistemas Microinformáticos en Red
-
-  * Configuración de redes, administración de sistemas operativos, mantenimiento de equipos informáticos.
-
----
-
-## Experiencia laboral
-
-* **2022-2024:** Hotel Guitart Park (Lloret de Mar)
-* **2021:** Camping Resort Els Pins (Malgrat de Mar)
-* **2018-2020:** Piscina Municipal (Lloret de Mar)
-* **2018:** Olympic Sport Club (535 horas)
-* **2017:** Cadena de hoteles Aqua Hotel: Silhouette, Aquamarina, Onabrava, Montagut (800 horas)
-* **2015:** Hotel Rosamar Garden (315 horas)
-* **2014:** Water World Lloret (675 horas)
-* **2014:** Prácticas de empresa (CFGM) Evenia Olympic Garden (115 horas) -Vigilancia de piscinas
-* **2013:** Prácticas de empresa (CFGM) Colegio Mossén Joan Batlle (364 horas) -Mantenimiento y puesta a punto de equipos informaticos (formateos, copias de seguridad)
-
-  * Como puntos fuertes puedo destacar la atención al cliente y el trabajo en equipo.
-
----
-
-## Cualidades personales
-
-* Paciente
-* Constante
-* Puntual
-* Comprometido
-* Responsable
-
----
-## Idiomas
-* Catalán- Hablado y escrito correctamente
-* Castellano – Hablado y escrito correctamente. Lengua materna
-* Inglés - Nivel básico
-
----
-## Datos de interés
-
-* Disponibilidad inmediata y flexibilidad horaria
-* Permiso de conducir B
-* Vehículo propio
