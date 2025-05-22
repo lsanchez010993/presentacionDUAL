@@ -49,11 +49,9 @@ Implementación del clásico juego Buscaminas por consola.
 Herramienta para la encriptación y desencriptación de archivos.  
 👉 [Código en GitHub](https://github.com/lsanchez010993/EncriptarArchivos)
 
-
 ### **Juego de formar palabras** *(Java)*  
 Muestra al usuario una serie de caracteres con los que debe formar una palabra.
 👉 [Código en GitHub](https://github.com/lsanchez010993/ProgramaAprendizaje)
-
 
 ### **Juego de Naves Espaciales y Marcianos** *(JavaScript, HTML, CSS)*  
 Juego arcade tipo Space Invaders.  
