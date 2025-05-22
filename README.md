@@ -39,19 +39,25 @@ Aplicación para la gestión y visualización de libros en formato EPUB.
 
 ### **Multiplayer Pirámides** *(Node.js)*  
 Juego multijugador interactivo.  
-👉 [Código en GitHub](#)
+👉 [Código en GitHub](https://github.com/lsanchez010993/Piramides.git)
 
-### **Buscaminas** *(Java con Interfaz Gráfica)*  
-Implementación del clásico juego Buscaminas con GUI.  
-👉 [Código en GitHub](#)
+### **Buscaminas** *(Java)*  
+Implementación del clásico juego Buscaminas por consola.  
+👉 [Código en GitHub](https://github.com/lsanchez010993/minas2024/)
 
 ### **Programa de Encriptación con GUI** *(Java)*  
 Herramienta para la encriptación y desencriptación de archivos.  
-👉 [Código en GitHub](#)
+👉 [Código en GitHub](https://github.com/lsanchez010993/EncriptarArchivos)
+
+
+### **Juego de formar palabras** *(Java)*  
+Muestra al usuario una serie de caracteres con los que debe formar una palabra.
+👉 [Código en GitHub](https://github.com/lsanchez010993/ProgramaAprendizaje)
+
 
 ### **Juego de Naves Espaciales y Marcianos** *(JavaScript, HTML, CSS)*  
 Juego arcade tipo Space Invaders.  
-👉 [Código en GitHub](#)
+👉 [Código en GitHub](https://github.com/lsanchez010993/navesEspacio.git)
 
 ---
 
@@ -124,19 +130,11 @@ En los años que he cursado DAW he observado los paralelismos que tiene la escri
 
 ---
 
-## Programas desarrollados en Java
-
-- **Programa de encriptación con interfaz gráfica:**  
-  [Encriptar Archivos](https://github.com/lsanchez010993/EncriptarArchivos)
 
 - **Programa múltiples juegos por consola:**  
   [MultiJuegos](https://github.com/lsanchez010993/MultiJuegos)
 
-- **Formar palabras:**  
-  [Programa Aprendizaje](https://github.com/lsanchez010993/ProgramaAprendizaje)
 
-- **Buscaminas:**  
-  [BuscaMinas](https://github.com/lsanchez010993/minas2024/)
 
 ---
 ## Programas desarrollados en JavaScript, HTML, CSS
