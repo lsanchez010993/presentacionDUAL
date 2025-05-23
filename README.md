@@ -2,7 +2,9 @@
 **Luis Sánchez Martín**  
 **Desarrollador Web Full Stack Junior**
 
-Apasionado por la resolución de problemas y la lógica, encuentro en la programación el mismo rigor y creatividad que en la escritura. Mis años de dedicación a la lectura y escritura han cultivado mi paciencia, constancia y atención al detalle, cualidades que aplico en cada línea de código para desarrollar soluciones robustas y elegantes. Mi formación en DAW ha reforzado mi creencia en la constancia y dedicación como pilares para un código claro y conciso. Mi creatividad es una de mis mayores virtudes y la aplico para encontrar soluciones innovadoras.
+La lectura y la escritura son dos pilares fundamentales de mi vida. He dedicado años a hacer ambas cosas. Cualquiera que sepa de la ardua tarea de escribir sabe que para hacerlo con corrección y precisión es necesario dedicar tiempo y paciencia, y que un buen relato debe pasar por muchos borradores antes de estar pulido. Lo mismo sucede con los programas, escritos en cualquier lenguaje de programación.
+
+En los años que he cursado DAW he observado los paralelismos que tiene la escritura con la programación: constancia (para desarrollar el código) y dedicación (para refactorizarlo). Ambos atributos son imprescindibles para hilar un codigo claro y conciso. La creatividad es una de mis mayores virtudes.
 
 ---
 
@@ -120,40 +122,6 @@ Juego arcade tipo Space Invaders.
 - Permiso de conducir tipo B y vehículo propio
 
 
-## Sobre mi
-
-La lectura y la escritura son, y lo han sido siempre, dos pilares fundamentales de mi vida. He dedicado años a hacer ambas cosas. Cualquiera que sepa de la ardua tarea de escribir sabe que para hacerlo con corrección y precisión es necesario dedicar tiempo y paciencia, y que un buen relato debe pasar por muchos borradores antes de estar pulido. Lo mismo sucede con los programas, escritos en cualquier lenguaje de programación.
-
-En los años que he cursado DAW he observado los paralelismos que tiene la escritura con la programación: constancia (para desarrollar el código) y dedicación (para refactorizarlo). Ambos atributos son imprescindibles para hilar un codigo claro y conciso. La creatividad es una de mis mayores virtudes.
-
----
-
-
-- **Programa múltiples juegos por consola:**  
-  [MultiJuegos](https://github.com/lsanchez010993/MultiJuegos)
-
 
 
 ---
-## Programas desarrollados en JavaScript, HTML, CSS
-
-- **Piano por teclado y mause:**  
-[Piano](https://github.com/lsanchez010993/Piano.git)
-
-- **Juego de naves espaciales y marcianos:**  
-[SpaceInvaders](https://github.com/lsanchez010993/navesEspacio.git)
-
-- **Multiplayer piramides (node.js):**  
-[Piramides](https://github.com/lsanchez010993/Piramides.git)
-
-
-- **Biblioteca de libros en epub (node.js):**  
-[Biblioteca](https://github.com/lsanchez010993/biblioteca.git)
-
----
-## Web desarrollada con PHP, MYSQL, HTML, CSS
-
-- **Registro e información de animales varios:**  
-[Web de articulos de animales](https://www.luissanchez.cat/) [ => Código en GITHUB](https://github.com/lsanchez010993/ArticulosAnimales.git)
-
-
