@@ -1,5 +1,8 @@
 # Currículum Vitae  
+
 **Luis Sánchez Martín**  
+![Luis Sánchez Martín](./LuisSanchez1.png)
+
 **Desarrollador Web Full Stack Junior**
 
 La lectura y la escritura son dos pilares fundamentales de mi vida. He dedicado años a hacer ambas cosas. Cualquiera que sepa de la ardua tarea de escribir sabe que para hacerlo con corrección y precisión es necesario dedicar tiempo y paciencia, y que un buen relato debe pasar por muchos borradores antes de estar pulido. Lo mismo sucede con los programas, escritos en cualquier lenguaje de programación.
