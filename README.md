@@ -1,7 +1,6 @@
 # Currículum Vitae  
-
-**Luis Sánchez Martín**  
 ![Luis Sánchez Martín](./LuisSanchez1.png)
+**Luis Sánchez Martín**  
 
 **Desarrollador Web Full Stack Junior**
 
